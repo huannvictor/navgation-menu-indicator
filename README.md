@@ -30,17 +30,9 @@
 
 </div>
 
+<h3>CONFIRA O DEPLOY EM: </h3>
+<a href="https://huannvictor.github.io/navgation-menu-indicator/">https://huannvictor.github.io/navgation-menu-indicator/</a> 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-
-  <iframe 
-    src="https://www.loom.com/embed/f0dfdf84aaba481db28fec076b663a35" 
-    frameborder="0" 
-    webkitallowfullscreen mozallowfullscreen allowfullscreen 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-
-</div>
 <div style="padding:20px">
   <img 
     src="assets/printscreen.jpg" 
